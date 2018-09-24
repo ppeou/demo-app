@@ -1,0 +1,11 @@
+{
+  "name": "demo-app",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0",
+    "@ppeou/my-component": "0.0.4"
+  },
+  "devDependencies": {
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "wct-browser-legacy": "^1.0.0"
+  }
+}
